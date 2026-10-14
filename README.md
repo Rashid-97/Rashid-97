@@ -28,7 +28,3 @@ Most of my day-to-day work involves **Python, Django, FastAPI, PostgreSQL, and O
 - Designing data models and optimizing queries for data-heavy workloads
 - Developing geospatial backend capabilities with PostgreSQL/PostGIS
 - Working with legacy systems, data consistency, and production performance constraints
-
-### 🤝 Connect
-
-[LinkedIn](https://www.linkedin.com/in/rashidrmammadov/)
