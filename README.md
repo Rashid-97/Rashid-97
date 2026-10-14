@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/33453571/README.md)
 # Hi, I'm Rashid 👋
 
 ### Senior Python Developer | Backend Engineer
